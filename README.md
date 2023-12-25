@@ -38,6 +38,11 @@ Initiate updates:
 Clients automatically check for updates at set intervals.
 Updates are downloaded and applied as needed.
 
+## Requirements
+--------------------
+- python3 installed
+- curl
+- wget
 ## Contributing
 -----------------------
 Feel free to suggest improvements, report issues, or submit pull requests.
